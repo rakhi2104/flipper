@@ -61,7 +61,7 @@
   },
   "devDependencies": {
     "@jest-runner/electron": "^2.0.1",
-    "@testing-library/react": "^9.3.0",
+    "@testing-library/react": "^9.3.1",
     "@types/algoliasearch": "^3.30.19",
     "@types/deep-equal": "^1.0.1",
     "@types/expand-tilde": "^2.0.0",
